@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'survey_app.apps.SurveyAppConfig',
+    'survey_app_1.apps.SurveyApp1Config',
+    'survey_app_2.apps.SurveyApp2Config',
 ]
 
 MIDDLEWARE = [
